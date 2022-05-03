@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Bodoni:ital@1&family=Montserrat:ital,wght@1,300&family=Radio+Canada&display=swap');
+body{
+    background-color: rgb(28, 221, 228);
+}
+
+.ingredients {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;  
+    font-family: 'Libre Bodoni', serif;
+    font-size: large; 
+}
+.ingredients-table{
+    border: 1px solid black;
+    margin: 0 auto;
+    font-family: 'Libre Bodoni', serif;
+}
+
+.instructions{
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.instructions ol{
+    margin: 0 auto;
+    border: 2px solid rgb(43, 2, 88);
+    width: 75%;
+    font-family: 'Radio Canada', sans-serif;
+    font-size: 1rem;
+}
+
+
+.footer{
+    color: darkslateblue;
+    text-align: center;
+    font-family: 'Libre Bodoni', serif;
+    font-size: 2rem;
+}
